@@ -8,7 +8,7 @@ Aspiring Data Analyst and passionate about turning data into actionable insights
 
 **Projects:**
 
-* Online Retail Sales Analytics Dashboard
+* Madhav E-commerce Sales Dashboard
 * Tata Data Visualization Job Simulation Project
 
 🌱 Currently learning Advanced SQL, DAX and Data Storytelling.
