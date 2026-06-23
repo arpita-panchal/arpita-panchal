@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, 
 
-<!--
-**arpita-panchal/arpita-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Arpita Panchal 
 
-Here are some ideas to get you started:
+Aspiring Data Analyst and passionate about turning data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** SQL • Power BI • Excel • Python • Data Visualization • Business Analytics
+
+**Projects:**
+
+* Online Retail Sales Analytics Dashboard
+* Tata Data Visualization Job Simulation Project
+
+🌱 Currently learning Advanced SQL, DAX and Data Storytelling.
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/arpita-panchal
+
+⭐ Explore my repositories to see my data analytics projects and dashboards.
