@@ -1,15 +1,9 @@
 # Hi, 
-
 # I'm Arpita Panchal 
 
 Aspiring Data Analyst and passionate about turning data into actionable insights.
 
-**Skills:** SQL • Power BI • Excel • Python • Data Visualization • Business Analytics
-
-**Projects:**
-
-* Madhav E-commerce Sales Dashboard
-* Tata Data Visualization Job Simulation Project
+**Skills:** SQL • Tableau • Google sheets • Python • Data Visualization • Business Analytics 
 
 🌱 Currently learning Advanced SQL, DAX and Data Storytelling.
 
